@@ -97,6 +97,6 @@
 ## Get in touch
 
 <p>
-  <a href="https://www.linkedin.com/in/williamotieno"><img src="https://img.icons8.com/color/50/111111/linkedin.png" alt="linkedin"/></a>
+  <a href="https://www.linkedin.com/in/kevin-kipkemboi-7294181ba"><img src="https://img.icons8.com/color/50/111111/linkedin.png" alt="linkedin"/></a>
   <a href="https://www.github.com/kevohm"><img src="https://img.icons8.com/color/48/000000/github--v3.png" alt="github"/></a>
 </p>
