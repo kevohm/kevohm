@@ -26,7 +26,7 @@
 > Languages 
 <p>
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
+<img alt="Java" src="https://img.shields.io/badge/java-%23F24E1E.svg?&style=for-the-badge&logo=java&logoColor=white"/>
 </p>
 
 >Learning
@@ -49,7 +49,7 @@
 <p>
 <img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
 <img alt="Express.js" src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/>
-<img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
+<img alt="MySQL" src="https://img.shields.io/badge/mysql-%231572B6.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
 <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=red" />
 </p>
@@ -79,13 +79,10 @@
 </br>
 
 
-📈 **My GitHub Stats:**
+## 📈 **My GitHub Stats:**     <a href="https://wakatime.com/@ebb8fe80-e81c-4acf-91b5-b0790931cf83"><img src="https://wakatime.com/badge/user/ebb8fe80-e81c-4acf-91b5-b0790931cf83/project/74bdaef4-2d7d-407d-b0f0-bb03a25869f5.svg" alt="Total time coded since Jul 30 2021" /></a>
 
 
   <table>
-  <tr>
-    <a href="https://wakatime.com/@ebb8fe80-e81c-4acf-91b5-b0790931cf83"><img src="https://wakatime.com/badge/user/ebb8fe80-e81c-4acf-91b5-b0790931cf83/project/74bdaef4-2d7d-407d-b0f0-bb03a25869f5.svg" alt="Total time coded since Jul 30 2021" /></a>
-  </tr>
   <tr>
       <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api?username=kevohm&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight"/></td>
     <td><img width="400px" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=kevohm&show_icons=true&locale=en&layout=compact&theme=tokyonight"/></td>
@@ -96,7 +93,8 @@
 </br>
 </br>
 
-### Get in touch
+## Get in touch
+
 <p>
   <a href="https://www.linkedin.com/in/williamotieno"><img src="https://img.icons8.com/color/50/111111/linkedin.png" alt="linkedin"/></a>
   <a href="https://www.github.com/kevohm"><img src="https://img.icons8.com/color/48/000000/github--v3.png" alt="github"/></a>
