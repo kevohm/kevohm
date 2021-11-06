@@ -32,12 +32,7 @@ Here are some ideas to get you started:
      
   </tr>   
 </table>
-<table>
-  <tr>
-    <td><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=kevohm&layout=compact"/></td>
-    <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevohm&langs_count=10&layout=compact"/></td>
-  </tr>
-</table>
+
 #### My Languages 
 
 <code><img height="100" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
@@ -54,5 +49,5 @@ Here are some ideas to get you started:
 ### Get in touch
 <p>
   <a href="https://www.linkedin.com/in/williamotieno"><img src="https://img.icons8.com/color/50/111111/linkedin.png" alt="linkedin"/></a>
-  <a href="https://www.github.com/kevohm"><img src="https://img.icons8.com/color/50/111111/github.png" alt="github"/></a>
+  <a href="https://www.github.com/kevohm"><img src="https://img.icons8.com/color/48/000000/github--v3.png" alt="github"/></a>
 </p>
