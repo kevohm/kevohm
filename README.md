@@ -81,7 +81,8 @@
 
 ## 📈 **My GitHub Stats:**     <a href="https://wakatime.com/@ebb8fe80-e81c-4acf-91b5-b0790931cf83"><img src="https://wakatime.com/badge/user/ebb8fe80-e81c-4acf-91b5-b0790931cf83/project/74bdaef4-2d7d-407d-b0f0-bb03a25869f5.svg" alt="Total time coded since Jul 30 2021" /></a>
 
-[![Kevoh's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevohm)](https://github.com/anuraghazra/github-readme-stats)
+![Kevohm's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevohm&show_icons=true&theme=radical)
+
 
 </br>
 </br>
