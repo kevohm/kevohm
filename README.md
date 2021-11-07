@@ -7,13 +7,15 @@
 ## <h1>What i love</h1>
 
 <div >
-
-### Solving problems and using Data Structure and Algorithms. 
-
-### Starting new Projects and try to finish them.
-
-### Currently, I'm working with javascript frameworks to develop Front and Backend of websites.
-  
+<p>
+❇️ Solving problems and using Data Structure and Algorithms. 
+</p>
+<p>
+❇️ Starting new Projects and try to finish them.
+</p>
+<p>
+❇️ Currently, I'm working with javascript frameworks to develop Front and Backend of websites.
+</p>
 </div>
 <br/>
 <br/>
