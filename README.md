@@ -4,18 +4,20 @@
 <br/>
 <br/>
 
-## <h1>What i love</h1>
+## What i love
 
 <div >
-<p>
-❇️ Solving problems and using Data Structure and Algorithms. 
-</p>
-<p>
-❇️ Starting new Projects and try to finish them.
-</p>
-<p>
-❇️ Currently, I'm working with javascript frameworks to develop Front and Backend of websites.
-</p>
+<ul>
+<li>
+Solving problems and using Data Structure and Algorithms. 
+</li>
+<li>
+Starting new Projects and try to finish them.
+</li>
+<li>
+Currently, I'm working with javascript frameworks to develop Front and Backend of websites.
+</li>
+</ul>
 </div>
 <br/>
 <br/>
