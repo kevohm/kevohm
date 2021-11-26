@@ -91,8 +91,8 @@ Currently, I'm working with javascript frameworks to develop Front and Backend o
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kevohm&show_icons=true&theme=radical" />
     </a></td>
   <td>
-<a href="https://github.com/kevohm/kevohm">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevohm&layout=compact&show_icons=true&theme=radical" />
+<a href="https://wakatime.com/@ebb8fe80-e81c-4acf-91b5-b0790931cf83">
+  <img  src="https://wakatime.com/share/@kevohm/9ed5f065-9afd-4a50-a5fa-2366d5f8595a.svg" width="400" height="300">
 </a></td>
 
 </table>
