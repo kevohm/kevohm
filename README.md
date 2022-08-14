@@ -92,7 +92,7 @@ Currently, I'm working with javascript frameworks to develop Front and Backend o
     </a></td>
   <td>
 <a href="https://wakatime.com/@ebb8fe80-e81c-4acf-91b5-b0790931cf83">
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevohm&&theme=dark&layout=compact" width="400" height="300">
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevohm&&theme=radical&layout=compact" width="400" height="300">
 </a></td>
 
 </table>
