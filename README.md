@@ -15,7 +15,7 @@ Solving problems and using Data Structure and Algorithms.
 Starting new Projects and try to finish them.
 </li>
 <li>
-Currently, I'm working with javascript frameworks to develop Front and Backend of websites.
+Currently, I'm working on optimization of large projects and enhancing load time in web applications.
 </li>
 </ul>
 </div>
