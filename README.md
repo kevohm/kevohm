@@ -4,18 +4,18 @@
 <br/>
 <br/>
 
-## What i love
+## 👩‍💻 What I Love
 
 <div >
 <ul>
 <li>
-Solving problems and using Data Structure and Algorithms. 
+🧠 Problem-solving: Applying Data Structures and Algorithms to tackle challenges.
 </li>
 <li>
-Starting new Projects and try to finish them.
+🎯 Starting New Projects: I enjoy creating and (trying to!) finish exciting ideas.
 </li>
 <li>
-Currently, I'm working on optimization of large projects and enhancing load time in web applications.
+🚀 Optimizing Large Applications: Currently enhancing performance and load times in web apps.
 </li>
 </ul>
 </div>
@@ -24,9 +24,9 @@ Currently, I'm working on optimization of large projects and enhancing load time
 
 
 
-## Tech Stacks 
+## 🛠 Tech Stacks
 
-> Languages 
+>  Languages
 <p>
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 <img alt="Java" src="https://img.shields.io/badge/java-%23F24E1E.svg?&style=for-the-badge&logo=java&logoColor=white"/>
@@ -79,13 +79,8 @@ Currently, I'm working on optimization of large projects and enhancing load time
 
 ---
 <br/>
-</br>
 
-<a href="https://wakatime.com/@ebb8fe80-e81c-4acf-91b5-b0790931cf83"><img src="https://wakatime.com/badge/user/ebb8fe80-e81c-4acf-91b5-b0790931cf83.svg" alt="Total time coded since Jul 30 2021" /></a>
-
-</br>
-
-## 📈 **My GitHub Stats:**
+## 📊 **My GitHub Stats:**
 
 <table>
   <td><a href="https://github.com/kevohm/kevohm">
@@ -100,7 +95,7 @@ Currently, I'm working on optimization of large projects and enhancing load time
 </br>
 </br>
 
-## Get in touch
+## 📬 Get in Touch
 
 <p>
   <a href="https://www.linkedin.com/in/kevin-kipkemboi-7294181ba"><img src="https://img.icons8.com/color/50/111111/linkedin.png" alt="linkedin"/></a>
