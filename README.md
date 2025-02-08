@@ -9,10 +9,10 @@
 <div >
 <ul>
 <li>
-🧠 Problem-solving: Applying Data Structures and Algorithms to tackle challenges.
+🧠 Problem-solving: Applying system design, 'Data Structures and Algorithms' and software engineering best practices to improve on projects.
 </li>
 <li>
-🎯 Starting New Projects: I enjoy creating and (trying to!) finish exciting ideas.
+🎯 Starting New Projects: I enjoy learning new technologies while creating cool projects.
 </li>
 <li>
 🚀 Optimizing Large Applications: Currently enhancing performance and load times in web apps.
