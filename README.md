@@ -83,11 +83,14 @@
 ## 📊 **My GitHub Stats:**
 
 <table>
-  <td><a href="https://github.com/kevohm/kevohm">
-  <img align="center" src="https://streak-stats.demolab.com/?user=kevohm" width="500" height="350" />
+  <td><a href="https://streak-stats.demolab.com/?user=kevohm&theme=radical">
+  <img align="center" src="https://streak-stats.demolab.com/?user=kevohm&theme=radical" width="500" height="350" />
     </a></td>
   <td>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=kevohm" alt="GitHub Streak" /></a></td>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=kevohm&layout=compact&theme=radical">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevohm&layout=compact&theme=radical" alt="GitHub Languages" />
+</a>
+</td>
 </table>
 
 </br>
