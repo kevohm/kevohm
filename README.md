@@ -88,7 +88,7 @@
     </a></td>
   <td>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=kevohm&layout=compact&theme=radical">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevohm&layout=compact&theme=radical" alt="GitHub Languages" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevohm&layout=compact&theme=radical" alt="GitHub Languages"  width="500" height="350"/>
 </a>
 </td>
 </table>
