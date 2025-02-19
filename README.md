@@ -84,7 +84,7 @@
 
 <table>
   <td><a href="https://github.com/kevohm/kevohm">
-  <img align="center" src="https://streak-stats.demolab.com/?user=kevohm&theme=radical" width="500" height="350" />
+  <img align="center" src="https://streak-stats.demolab.com/?user=kevohm" width="500" height="350" />
     </a></td>
   <td>
 <a href="https://wakatime.com/@ebb8fe80-e81c-4acf-91b5-b0790931cf83">
